@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">thirtydays</string>
+    <string name="spend_15_minutes_outdoors">Spend 15 minutes outdoors</string>
+    <string name="take_time_to_connect_with_nature">Take time to connect with nature</string>
+    <string name="fullDesc1">Put some time on your calendar to take a walk outside or maybe even take a meeting while you\'re strolling through your neighborhood.</string>
+    <string name="listen_to_a_new_podcast_or_audiobook">Listen to a new podcast or audiobook</string>
+    <string name="expand_your_knowledge">Expand your knowledge</string>
+    <string name="fullDesc2">Listen to a podcast and explore a topic you\'ve been itching to learn more about or discover a completely new topic or genre of podcast content.</string>
+    <string name="practice_10_minutes_of_meditation">Practice 10 minutes of meditation</string>
+    <string name="clear_your_mind">Clear your mind</string>
+    <string name="fullDesc3">Find a quiet space and focus on your breathing. Let go of stress and center yourself for the day ahead.</string>
+    <string name="drink_8_glasses_of_water">Drink 8 glasses of water</string>
+    <string name="stay_hydrated">Stay hydrated</string>
+    <string name="fullDesc4">Keep track of your water intake throughout the day. Proper hydration is essential for overall health and energy levels.</string>
+    <string name="try_a_new_healthy_recipe">Try a new healthy recipe</string>
+    <string name="explore_nutritious_cooking">Explore nutritious cooking</string>
+    <string name="fullDesc5">Challenge yourself to cook something new and healthy. Discover flavors that nourish your body.</string>
+</resources>
